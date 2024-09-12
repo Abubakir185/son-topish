@@ -1,5 +1,5 @@
 import random
-i
+
 maxfiy_son = random.randint(1, 100)
 taxminlar_soni = 0
 
